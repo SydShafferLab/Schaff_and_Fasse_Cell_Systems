@@ -4,8 +4,6 @@ AJF009 ANALYSIS SCRIPTS
 Folder of outs: /Volumes/GoogleDrive/My Drive/Fasse_Shared/AJF_Drive_copy/
 Experiments/AJF009/2022_01_14_analysis_scripts/2022_05_27_analysis
 
-Folder of scripts: /Users/ariafasse/Documents/GitHub/Fasse_paper
-
 THIS IS THE CORRECT ORDER TO RUN SCRIPTS
 
 ## EXAMPLE: Folder name (type of data)
