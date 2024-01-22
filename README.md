@@ -1,6 +1,8 @@
 # Schaff_an_Fasse_Cell_Systems
 AJF009 ANALYSIS SCRIPTS
 
+[![DOI](https://zenodo.org/badge/745183408.svg)](https://zenodo.org/doi/10.5281/zenodo.10552082)
+
 Folder of outs: /Volumes/GoogleDrive/My Drive/Fasse_Shared/AJF_Drive_copy/
 Experiments/AJF009/2022_01_14_analysis_scripts/2022_05_27_analysis
 
